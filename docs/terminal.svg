@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="604" viewBox="0 0 560 604" role="img" aria-label="limitbar — usage limits">
+<title>limitbar — usage limits</title>
+<rect width="560" height="604" rx="12" fill="#0d1117"/>
+<rect width="560" height="40" rx="12" fill="#161b22"/>
+<rect y="28" width="560" height="12" fill="#161b22"/>
+<circle cx="24" cy="20" r="6" fill="#ff5f57"/><circle cx="44" cy="20" r="6" fill="#febc2e"/><circle cx="64" cy="20" r="6" fill="#28c840"/>
+<text x="280.0" y="25" text-anchor="middle" fill="#7d8590" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="13">limitbar — usage limits</text>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="14" fill="#e6edf3">
+<text x="24" y="64" xml:space="preserve"><tspan fill="#79c0ff">$</tspan> limitbar</text>
+<text x="24" y="84" xml:space="preserve"><tspan font-weight="700">== Codex (oauth) ==</tspan></text>
+<text x="24" y="104" xml:space="preserve">Session: <tspan fill="#3fb950">31% left</tspan> [====--------]</text>
+<text x="24" y="124" xml:space="preserve">Resets in 2h 47m</text>
+<text x="24" y="144" xml:space="preserve">Weekly: <tspan fill="#3fb950">75% left</tspan> [=========---]</text>
+<text x="24" y="164" xml:space="preserve">Resets in 6d 4h</text>
+<text x="24" y="184" xml:space="preserve">Credits: 0</text>
+<text x="24" y="204" xml:space="preserve">Plan: Plus</text>
+<text x="24" y="224" xml:space="preserve"></text>
+<text x="24" y="244" xml:space="preserve"><tspan font-weight="700">== Claude (oauth) ==</tspan></text>
+<text x="24" y="264" xml:space="preserve">Session: <tspan fill="#3fb950">44% left</tspan> [=====-------]</text>
+<text x="24" y="284" xml:space="preserve">Resets in 5m</text>
+<text x="24" y="304" xml:space="preserve">Weekly: <tspan fill="#3fb950">73% left</tspan> [=========---]</text>
+<text x="24" y="324" xml:space="preserve">Resets in 5d 11h</text>
+<text x="24" y="344" xml:space="preserve">Plan: Claude Pro</text>
+<text x="24" y="364" xml:space="preserve"></text>
+<text x="24" y="384" xml:space="preserve"><tspan font-weight="700">== Antigravity (local) ==</tspan></text>
+<text x="24" y="404" xml:space="preserve">Gemini 5-hour: <tspan fill="#3fb950">88% left</tspan> [===========-]</text>
+<text x="24" y="424" xml:space="preserve">Resets in 2h 33m</text>
+<text x="24" y="444" xml:space="preserve">Gemini weekly: <tspan fill="#3fb950">90% left</tspan> [===========-]</text>
+<text x="24" y="464" xml:space="preserve">Resets in 6d 4h</text>
+<text x="24" y="484" xml:space="preserve">Claude/GPT 5-hour: <tspan fill="#3fb950">92% left</tspan> [===========-]</text>
+<text x="24" y="504" xml:space="preserve">Resets in 3h 18m</text>
+<text x="24" y="524" xml:space="preserve">Claude/GPT weekly: <tspan fill="#3fb950">94% left</tspan> [===========-]</text>
+<text x="24" y="544" xml:space="preserve">Resets in 6d 4h</text>
+<text x="24" y="564" xml:space="preserve">  Gemini 4 Argon weekly: <tspan fill="#3fb950">88% left</tspan> · Resets in 6d 4h</text>
+</g>
+</svg>
